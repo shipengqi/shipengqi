@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm [shipengqi](https://shipengqi.github.io)!
+
+- 🔭 I’m currently working on Golang, Node.js, Java.
+- 💬 Ask me about anthing [here](https://github.com/shipengqi/shipengqi/issues)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shipengqi&show_icons=true&include_all_commits=true&theme=radical&count_private=true" alt="shipengqi's github stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shipengqi&layout=compact&theme=radical" />
+
+<a href="https://github.com/shipengqi/shipenqgi.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shipengqi&repo=shipengqi.github.io&theme=radical" />
+</a>
