@@ -24,6 +24,6 @@ Hi, I'm [shipengqi](https://shipengqi.github.io)!
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shipengqi&layout=compact&theme=radical" /> -->
 
-<a href="https://shipenqgi.github.io">
+<a href="https://shipengqi.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shipengqi&repo=shipengqi.github.io&theme=radical" />
 </a>
