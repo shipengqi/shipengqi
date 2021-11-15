@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm [Pooky](https://shipengqi.github.io)👋
 
 <!--
 **shipengqi/shipengqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=shipengqi&show_icons=true&theme=vue" alt="Pooky's github stats" />
 
-Hi there, I'm [Pooky](https://shipengqi.github.io) :star2:
-
-- 🔭 I’m currently working on Go, Node.js and Java.
+- 🇨🇳 Chinese
+- 🔭 I’m currently working on Cloud Native development.
+- ⚡ Go, Node.js and Java
 - 💬 Ask me about anything [here](https://github.com/shipengqi/shipengqi/issues)
 
 
