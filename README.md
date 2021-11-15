@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - ⚡ Go, Node.js and Java
 - 💬 Ask me about anything [here](https://github.com/shipengqi/shipengqi/issues)
 
-It's hard to get up at six, it's difficult to read book everyday. But there always people who can get up at five, read a book patiently. You want to know the tips?
-Don't think too muck. JUST ACT
+
+Don't think too much. JUST ACT
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shipengqi&layout=compact&theme=radical" /> -->
 
