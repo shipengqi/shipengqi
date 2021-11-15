@@ -23,7 +23,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything [here](https://github.com/shipengqi/shipengqi/issues)
 
 
-Don't think too much. JUST ACT
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shipengqi&layout=compact&theme=radical" /> -->
 
